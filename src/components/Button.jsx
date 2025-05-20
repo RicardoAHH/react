@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Button() {
     return (
-        <div>Button</div>
+        <div>Esto es un boton importado</div>
     )
 }
 
